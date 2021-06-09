@@ -1,4 +1,5 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+## Example Home
+![Image of Web](https://imgur.com/a/FC3pNRy)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
