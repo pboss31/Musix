@@ -1,5 +1,5 @@
 ## Example Home
-![Image of Web](https://imgur.com/a/FC3pNRy)
+![Image of Web](https://i.imgur.com/xr2O7a5.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
